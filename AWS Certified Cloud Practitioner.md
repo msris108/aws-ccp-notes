@@ -1,14 +1,3 @@
-## Table of Contents
-1. [Introduction to Amazon Web Services](#Introduction%20to%20Amazon%20Web%20Services)
-2. [Compute in the Cloud](#Compute%20in%20the%20Cloud)
-3. [Global Infrastructure and Reliability](#Global%20Infrastructure%20and%20Reliability)
-4. [Networking](#Networking)
-5. [Storage and Databases](#Storage%20and%20Databases)
-6. [Security](#Security)
-7. [Monitoring and Analytics](#Monitoring%20and%20Analytics)
-8. [Pricing and Support](#Pricing%20and%20Support)
-9. [Migration and Innovation](#Migration%20and%20Innovation)
-
 ## Introduction to Amazon Web Services 
 ---
 - Access Services on Demand
@@ -76,9 +65,6 @@
 - Predictive Scaling - Traffic is forecasted
 - Autoscaling Group - Minimum | Desired | Maximum 
 - Elastic Load Balancing - when attached with Autoscaling Group acts as a single point of contact for scaling the apps 
-
-![Pasted image 20221018114431.png](Pasted%20image%2020221018103108.png)
-
 
 ### Messaging services: SNS, SQS
 - Simple Notification Service: Publisher - Subscriber model, Topic based
